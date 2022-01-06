@@ -1,0 +1,8 @@
+# comment
+*/temp*
+*/*/temp*
+temp?
+.idea/*
+*.md
+.gitignore
+.dockerignore
