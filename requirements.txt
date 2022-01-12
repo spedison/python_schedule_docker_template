@@ -59,7 +59,6 @@ launchpadlib
 lazr.restfulclient
 lazr.uri
 libvirt-python
-llvmlite
 locket
 louis
 lxml
@@ -118,3 +117,4 @@ xlwt
 zipp
 zope.interface
 fernet
+cx_oracle
