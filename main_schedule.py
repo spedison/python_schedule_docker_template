@@ -1,6 +1,10 @@
 import schedule
 import time
 from main import imprime
+import numpy
+import pandas
+import sqlalchemy
+import psycopg2
 
 def job():
     imprime()
